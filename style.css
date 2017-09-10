@@ -1,0 +1,37 @@
+body{
+	margin:24px 38px;
+	background-color:#eee;
+	text-align:center;
+}
+
+#header{
+	background-color:#111;
+	margin:auto;
+	width:auto;
+	max-width:720px;
+	height:auto;
+	color:#fff;
+	font-weight:bold;
+}
+
+#header h1{
+	font-size:38pt;
+}
+
+#textblock{
+	margin:auto;
+	margin-top:20px;
+	background-color:#fcfcfc;
+	width:auto;
+	max-width:720px;
+	height:auto;
+	font-size:28pt;
+}
+
+#phrase{
+	display:inline-block;
+	margin:28px;
+	width:auto;
+	height:auto;
+	max-width:720px;
+}
